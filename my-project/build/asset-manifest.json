@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Karthik-um/React-7.git/static/css/main.644a4991.chunk.css",
+    "main.js": "/Karthik-um/React-7.git/static/js/main.63610e85.chunk.js",
+    "main.js.map": "/Karthik-um/React-7.git/static/js/main.63610e85.chunk.js.map",
+    "runtime-main.js": "/Karthik-um/React-7.git/static/js/runtime-main.f7205f04.js",
+    "runtime-main.js.map": "/Karthik-um/React-7.git/static/js/runtime-main.f7205f04.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Karthik-um/React-7.git/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7db3a05a.chunk.js": "/Karthik-um/React-7.git/static/js/2.7db3a05a.chunk.js",
+    "static/js/2.7db3a05a.chunk.js.map": "/Karthik-um/React-7.git/static/js/2.7db3a05a.chunk.js.map",
+    "static/js/3.3c8e3df1.chunk.js": "/Karthik-um/React-7.git/static/js/3.3c8e3df1.chunk.js",
+    "static/js/3.3c8e3df1.chunk.js.map": "/Karthik-um/React-7.git/static/js/3.3c8e3df1.chunk.js.map",
+    "index.html": "/Karthik-um/React-7.git/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Karthik-um/React-7.git/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.644a4991.chunk.css.map": "/Karthik-um/React-7.git/static/css/main.644a4991.chunk.css.map",
+    "static/js/2.7db3a05a.chunk.js.LICENSE.txt": "/Karthik-um/React-7.git/static/js/2.7db3a05a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Karthik-um/React-7.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7205f04.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7db3a05a.chunk.js",
+    "static/css/main.644a4991.chunk.css",
+    "static/js/main.63610e85.chunk.js"
+  ]
+}
